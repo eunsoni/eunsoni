@@ -1,8 +1,18 @@
 # 안녕하세요, 백엔드 & AI 인프라 엔지니어 김은선(리나)입니다 👋
 
-<p align="center">
-  <strong>AWS 기반 서버·네트워크·스토리지 최적화와 운영 자동화를 합니다</strong>
-</p>
+<div align="center">
+  
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3776AB)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)
+  ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%F0%9F%9A%80%20Infrastructure%20Engineer&fontSize=40&fontAlign=50&fontAlignY=40&desc=Cost%20Optimization%20%7C%20Performance%20Tuning%20%7C%20Automation&descAlign=50&descAlignY=60" />
+</div>
 
 ---
 
@@ -40,43 +50,28 @@
 ## 🚀 주요 프로젝트
 
 ### Chiki Rental — AI 네컷 렌탈 서비스
-> **Instagram**: [@chiki_rental](https://instagram.com/chiki_rental) | **Role**: AI Research Engineer
+> **Instagram**: [@chiki_rental](https://instagram.com/chiki_rental)
 
-<details>
-<summary><strong>스토리지/모델 최적화</strong> (2025.07 ~ 현재)</summary>
-
+#### 스토리지/모델 최적화 (2025.07 ~ 현재)
 - **인스턴스 스토어 활용**: 임시 스토리지 마운트로 EBS 비용 절감
 - **EFS 공유 구조**: 인스턴스·Docker 간 공통 모델 공유로 중복 제거
 - **모델 로컬화**: SD 모델 구성 요소 추출로 외부 다운로드 없이 파이프라인 구성
 - **Docker 표준화**: AI 서버 이미지 패키징
 - **GPU 크레딧 도입**: 인프라 비용 대폭 절감
 
-</details>
-
-<details>
-<summary><strong>리전 이전 & VPC Peering</strong> (2025.04 ~ 2025.05)</summary>
-
+#### 리전 이전 & VPC Peering (2025.04 ~ 2025.05)
 - **서버 마이그레이션**: Seoul → Oregon (G5.xlarge 부족 해결)
 - **네트워킹 구성**: VPC Peering, 라우팅 테이블, 보안그룹 설계
 
-</details>
-
-<details>
-<summary><strong>컴퓨팅/비용 최적화</strong> (2024.12 ~ 2025.03)</summary>
-
+#### 컴퓨팅/비용 최적화 (2024.12 ~ 2025.03)
 - **Graviton 전환**: 컴퓨팅 비용 20% 절감
 - **Savings Plans**: 장기 비용 안정화
-
-</details>
 
 ---
 
 ### Classendo — 교사용 학생 평가 자동화
-> **Website**: [service.classendo.ai](https://service.classendo.ai/) | **Role**: Backend Developer
-
-<details>
-<summary><strong>로드밸런서 구조 개선</strong></summary>
-
+> **Website**: [service.classendo.ai](https://service.classendo.ai/)
+#### 로드밸런서 구조 개선
 **문제점**
 ```
 ClassendoLB → FrontASG → Front Nginx → BackLB → BackASG → Back Nginx
@@ -93,24 +88,13 @@ ClassendoLB → FrontASG 또는 ClassendoLB → BackASG 직결
 
 **결과**: 서버 리소스 최적화, 예외처리+자동배포로 **장애 0건 유지**
 
-</details>
-
 ## 💼 Experience
 
 ### AI Research Engineer Intern
 **프로젝트빌드업** | `2025.07 ~ 현재`
 
-- **스토리지 최적화**: 인스턴스 스토어 + EFS 활용으로 EBS 125GiB→20GiB 축소
-- **모델 로컬화**: SD 모델 구성 요소 로컬 저장으로 외부 다운로드 제거
-- **GPU 크레딧**: 직접 조사·신청·도입으로 인프라 비용 외부 지원 전환
-- **오프라인 운영**: 2025 대구힙합페스티벌 Chiki Rental 부스 스태프
-
 ### Backend Developer Intern  
 **프로젝트빌드업** | `2024.12 ~ 2025.06`
-
-- **자동 스케일링**: Lambda+태그/트래픽 기반 스케일링 & CloudWatch 모니터링
-- **리전 이전**: Seoul→Oregon 마이그레이션 & VPC Peering 구성
-- **비용 최적화**: Graviton 전환(20% 절감) & Savings Plans 적용
 
 ## 🎓 Education & Certifications
 
@@ -123,20 +107,16 @@ ClassendoLB → FrontASG 또는 ClassendoLB → BackASG 직결
 - **학술동아리** AI & IoT 분야 `2022.03~2023.11`
 
 ### Certifications
-- **리눅스마스터 2급** (1차 합격, 2024.08)
-- **정보처리기사** (필기 합격, 2025.02)  
-- **SQLD** (취득, 2025.03)
+- **리눅스마스터 2급(1차)** (2024.08)
+- **정보처리기사(필기)** (2025.02)  
+- **SQLD** (2025.03)
 
-<details>
-<summary><strong>주요 수상 내역</strong></summary>
-
-- **은상** | 한국정보기술학회 | 차량 내 반려동물 안전 위험 요소 감지 복합 센서 시스템
-- **동상** | 한국정보기술학회 | 개 짖는 소리 주파수 분석 및 신경망 종 분류 시스템
-- **동상** | 한국정보과학회 | IoT 다중센서 낙상사고 예방 & 수면환경 개선 영아용 침대
-- **최우수상** | 멀티캠퍼스 | 반려동물 커뮤니티 (세미프로젝트)
-- **최우수상** | 멀티캠퍼스 | Kodi 한국 여행 안내 플랫폼 (최종프로젝트)
-
-</details>
+### 주요 수상 내역
+- 🥈 **은상** | 한국정보기술학회 | 차량 내 반려동물 안전 위험 요소 감지 복합 센서 시스템
+- 🥉 **동상** | 한국정보기술학회 | 개 짖는 소리 주파수 분석 및 신경망 종 분류 시스템
+- 🥉 **동상** | 한국정보과학회 | IoT 다중센서 낙상사고 예방 & 수면환경 개선 영아용 침대
+- 🏆 **최우수상** | 멀티캠퍼스 | 반려동물 커뮤니티 (세미프로젝트)
+- 🏆 **최우수상** | 멀티캠퍼스 | Kodi 한국 여행 안내 플랫폼 (최종프로젝트)
 
 ---
 
