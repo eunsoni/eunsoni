@@ -50,7 +50,7 @@
 ## 🚀 주요 프로젝트
 
 ### Chiki Rental — AI 네컷 렌탈 서비스
-> **Instagram**: [@chiki_rental](https://instagram.com/chiki_rental)
+> **Instagram**: [@chiki.ai](https://www.instagram.com/chiki.ai/)
 
 #### 스토리지/모델 최적화 (2025.07 ~ 현재)
 - **인스턴스 스토어 활용**: 임시 스토리지 마운트로 EBS 비용 절감
@@ -123,7 +123,6 @@ ClassendoLB → FrontASG 또는 ClassendoLB → BackASG 직결
 ## 📞 Contact
 
 - **Blog**: [goingweb.tistory.com](https://goingweb.tistory.com/)
-- **Email**: [eunseon7325@gmail.com](mailto:eunseon7325@gmail.com)
 
 ---
 
