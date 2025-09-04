@@ -98,7 +98,9 @@ ClassendoLB → FrontASG 또는 ClassendoLB → BackASG 직결
 
 ## 🎓 Education & Certifications
 
-### Education
+### Education/Experience
+- **맞다AI가 "mcp를 활용하여 n8n 자동화 워크플로우 생성하기"** 강의(40분) 진행`2025.08`
+- **Serverkit 김태훈 대표님 주관 개발자 교육 세션** 참가`2025.07`
 - **AWS Summit 2025** 참가 `2025.05`
 - **카카오테크캠퍼스** 2기 Backend `2024.04~2024.11` 
 - **경북대학교** 전자공학부(주)/컴퓨터학부(부) `2020.03~2024.08`
