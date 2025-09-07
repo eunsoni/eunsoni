@@ -16,21 +16,21 @@
 
 ---
 
-## 🧭 About
+## About
 
 > 비용·가용성·대기시간 지표 중심으로 인프라를 설계/개선합니다.
 
 - 🌐 **리전 이전, VPC Peering, 라우팅/보안그룹 설계 및 자동화**에 강점
 - 🤖 **Stable Diffusion 모델 자산을 EFS/인스턴스 스토어로 공유·로컬화**해 배포 단순화
 
-## 🔑 핵심 역량
+## 핵심 역량
 
 - **AWS 인프라**: EC2, EBS, EFS, S3, Lambda, CloudWatch, VPC, VPC Peering
 - **네트워킹**: 서버 마이그레이션, 라우팅/보안그룹 설계, 리전 이전
 - **운영 자동화**: Lambda 스케일링, CloudWatch 모니터링, CI/CD
 - **비용 최적화**: Savings Plans, Graviton 전환, GPU 크레딧 도입
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Cloud/Infra**: AWS (EC2, EBS, EFS, S3, Lambda, CloudWatch, VPC), GCP, Docker
 - **OS/Server**: Ubuntu, Amazon Linux, Windows Server, Raspberry Pi OS
@@ -39,7 +39,7 @@
 - **Backend**: Java, Spring Boot, FastAPI, Python
 - **Frontend**: HTML, JavaScript, CSS
 
-## 📊 주요 성과
+## 주요 성과
 
 - **QR 처리 성능**: 30s → 3s (90% 개선)
 - **컴퓨팅 비용**: x86 → Arm기반 아키텍처(Graviton)으로 전환 (20% 절감)
@@ -47,7 +47,7 @@
 - **월 GPU 운영비**: 720$ → 210$ (71% 절감)
 - **GPU 비용**: 크레딧 도입으로 전부 외부 지원 (100% 절감)
 
-## 🚀 주요 프로젝트
+## 주요 프로젝트
 
 ### Chiki Rental — AI 네컷 렌탈 서비스
 > **Instagram**: [@chiki.ai](https://www.instagram.com/chiki.ai/)
@@ -89,7 +89,7 @@ ClassendoLB → FrontASG 또는 ClassendoLB → BackASG 직결
 
 **결과**: 서버 리소스 최적화, 예외처리+자동배포로 **장애 0건 유지**
 
-## 💼 Experience
+## Experience
 
 ### AI Research Engineer Intern
 **프로젝트빌드업** | `2025.07 ~ 현재`
@@ -97,7 +97,7 @@ ClassendoLB → FrontASG 또는 ClassendoLB → BackASG 직결
 ### Backend Developer Intern  
 **프로젝트빌드업** | `2024.12 ~ 2025.06`
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 ### Education/Experience
 - **맞다AI가 "mcp를 활용하여 n8n 자동화 워크플로우 생성하기"** 강의(40분) 진행`2025.08`
